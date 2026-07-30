@@ -47,7 +47,7 @@ void moveTick(Particle& obj1, Particle& obj2){
     double Fx = F*((obj2.x-obj1.x)/getDistance(obj1,obj2));
     double Fy = F*((obj2.y-obj1.y)/getDistance(obj1,obj2));
 
-    //goldklumpen
+
 
 
 
